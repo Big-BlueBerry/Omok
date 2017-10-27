@@ -1,0 +1,7 @@
+C:\Users\dsm2016\source\repos\Omok\Omok\bin\Debug\Omok.exe.config
+C:\Users\dsm2016\source\repos\Omok\Omok\bin\Debug\Omok.exe
+C:\Users\dsm2016\source\repos\Omok\Omok\bin\Debug\Omok.pdb
+C:\Users\dsm2016\source\repos\Omok\Omok\obj\Debug\Omok.csprojResolveAssemblyReference.cache
+C:\Users\dsm2016\source\repos\Omok\Omok\obj\Debug\Omok.csproj.CoreCompileInputs.cache
+C:\Users\dsm2016\source\repos\Omok\Omok\obj\Debug\Omok.exe
+C:\Users\dsm2016\source\repos\Omok\Omok\obj\Debug\Omok.pdb
